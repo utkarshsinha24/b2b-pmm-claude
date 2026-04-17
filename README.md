@@ -47,4 +47,4 @@ cp -r claude/* ~/.claude/
 
 ## Philosophy
 
-These skills encode methodology, not just instructions. The goal is for Claude to understand *how to think* about a PMM problem — not just follow a template. Each skill reflects real B2B SaaS experience across analytics, ad tech, and research platforms.
+These skills encode methodology, not just instructions. The goal is for Claude to understand *how to think* about a PMM problem — not just follow a template. Each skill reflects real B2B SaaS experiences, particularly for technical B2B platforms (think API/SDK-based platforms) in AI development, ad tech, and research industries.
