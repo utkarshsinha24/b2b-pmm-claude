@@ -27,7 +27,7 @@ claude/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/b2b-pmm-claude.git
+git clone https://github.com/utkarshsinha24/b2b-pmm-claude.git
 cp -r b2b-pmm-claude/claude/* ~/.claude/
 ```
 
